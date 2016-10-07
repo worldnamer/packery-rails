@@ -1,5 +1,5 @@
 module Packery
   module Rails
-    VERSION = '1.4.3'.freeze
+    VERSION = '2.1.1'.freeze
   end
 end
